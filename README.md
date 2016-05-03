@@ -13,6 +13,6 @@ Alumni reviewing alumni projects
 ## Stage 3 -- define workflow and necessary tools / technology
 - github pull requests
 - reviewer guidelines (be kind, be helpful)
-- 
+
 ## Stage 4 -- write code ;-) (if necessary at all)
 - at least a web site explaining the process
