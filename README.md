@@ -1,4 +1,4 @@
-# peer-reviews
+# project-reviews
 Alumni reviewing alumni projects
 
 ## Stage 1 -- collection of ideas
